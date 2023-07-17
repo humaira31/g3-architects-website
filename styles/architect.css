@@ -280,10 +280,9 @@ main {
         border-radius: 2px;
         background: #FFF4E7;
         
-        margin-left: 20px;
-        margin-right: 20px;
-        width: 40%;
-        padding: 20px 100px;
+        
+        width: 100%;
+        padding: 0px 0px;
         display: flex;
         flex-direction: column;
 
@@ -293,9 +292,10 @@ main {
     .footer p {
 
 
-        padding-left: 10px;
+        
         font-size: 1.4rem;
         font-weight: 150;
+        text-align: center;
 
 
 
