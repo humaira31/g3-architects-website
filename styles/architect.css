@@ -279,27 +279,17 @@ main {
     .footer {
         border-radius: 2px;
         background: #FFF4E7;
-        
-        
-        width: 100%;
-        padding: 0px 0px;
-        display: flex;
-        flex-direction: column;
+        width: 90%;
+        padding: 0px 40px 0px 0px;
+        margin: 0px;
 
 
     }
-
-    .footer p {
-
-
-        
-        font-size: 1.4rem;
-        font-weight: 150;
-        text-align: center;
+    
 
 
 
-    }
+
 }
 
 
@@ -318,9 +308,23 @@ main {
         padding: 20px;
     }
 
+
+
+    .footer {
+        border-radius: 2px;
+        background: #FFF4E7;
+        width: 90%;
+        text-align: center;
+        padding: 0px 90px 0px 0px;
+        display: flex;
+        flex-direction: column;
+        margin: 0px;
+
+    }
+
     .footer p {
-        font-size: 10px;
-        font-weight: 80;
-        padding: 10px 70px;
+        font-size: 20px;
+        font-weight: 400;
+        padding: 10px 80px;
     }
 }
